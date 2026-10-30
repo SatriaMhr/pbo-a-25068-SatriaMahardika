@@ -1,0 +1,15 @@
+# --- Java / Maven ---
+**/target/
+*.class
+.classpath
+.project
+.settings/
+
+# --- PHP / Composer ---
+**/vendor/
+composer.lock
+
+# --- File Sampah Sistem Operasi ---
+.DS_Store
+Thumbs.db
+*.log

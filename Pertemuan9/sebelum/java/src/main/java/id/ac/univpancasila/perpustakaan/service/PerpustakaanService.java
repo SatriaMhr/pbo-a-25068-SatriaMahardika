@@ -1,5 +1,4 @@
-package main.java.id.ac.univpancasila.perpustakaan.service;
-
+package id.ac.univpancasila.perpustakaan.service;
 public class PerpustakaanService {
     
 }
