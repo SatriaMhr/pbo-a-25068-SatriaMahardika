@@ -1,0 +1,5 @@
+# Mengabaikan folder vendor PHP dan target build Java
+**/vendor/
+**/target/
+**/build/
+composer.lock
